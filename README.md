@@ -8,7 +8,6 @@ Es incentivar la actividad en tu servidor en un entorno relajado y divertido.
 
 | Comando | Alias | Descripción | Formato | Opciones |
 | - | - | - | - | - |
-| verification | verification | - | - | role, message, key |
-| suggestion | suggestion | - | - | aprobar, denegar |
-| suggestions | suggestions | - | - | channel |
-
+| verificación | verification | - | - | role, message, key |
+| sugerencia | suggestion | - | - | aprobar, denegar |
+| sugerencias | suggestions | - | - | channel |
